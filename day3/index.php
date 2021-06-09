@@ -52,7 +52,7 @@
 //echo $users['name'];
 //var_dump($users);
 
-
+//
 $students = [
     ['name' => 'ram', 'address' => 'kathmandu', 'status' => 0, 'phone' => 986987],
     ['name' => 'hari', 'address' => 'pokhara', 'status' => 1, 'phone' => 987687],
@@ -60,6 +60,14 @@ $students = [
     ['name' => 'sophia', 'address' => 'kaski', 'status' => 1, 'phone' => 987698],
     ['name' => 'gopal', 'address' => 'abc', 'status' => 0, 'phone' => 876987],
 ];
+
+//$students= ['name' => 'ram', 'address' => 'kathmandu', 'status' => 0, 'phone' => 986987];
+//
+//
+//foreach ($students as $key=>$student){
+//    echo $key;
+//}
+
 
 
 ?>
