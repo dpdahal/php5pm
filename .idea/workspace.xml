@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcfa4910-841f-42fb-91ea-32c7e53ecdc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day6/calculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/introduction.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/day2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/day2/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/day2/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/day2/welcome.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/day3/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise/day1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/day1/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +31,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1tLQD60T7fL6BiUBjnUEdELvZqe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -69,7 +76,10 @@
       <workItem from="1622799124508" duration="19000" />
       <workItem from="1623064717254" duration="3133000" />
       <workItem from="1623136370587" duration="22000" />
-      <workItem from="1623236758271" duration="3888000" />
+      <workItem from="1623236758271" duration="4292000" />
+      <workItem from="1623243211353" duration="21000" />
+      <workItem from="1623243457068" duration="53000" />
+      <workItem from="1623756112173" duration="2047000" />
     </task>
     <servers />
   </component>

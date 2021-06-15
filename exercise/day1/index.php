@@ -21,6 +21,8 @@ $oldValue = [
 
 
 if (!empty($_POST)) {
+
+
     foreach ($_POST as $key => $value) {
         if (empty($_POST[$key])) {
             $errors[$key] = "{$key} filed is required";
