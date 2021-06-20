@@ -28,7 +28,7 @@ session_start();
                     unset($_SESSION['error']);
                     ?>
                 </div>
-            <?php endif ?>
+            <?php endif; ?>
 
 
             <form action="validation.php" method="post">
