@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcfa4910-841f-42fb-91ea-32c7e53ecdc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/crud/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/insert.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/day2/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/day2/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,12 @@
       <workItem from="1623243457068" duration="53000" />
       <workItem from="1623756112173" duration="2721000" />
       <workItem from="1623821265208" duration="34000" />
-      <workItem from="1624186719402" duration="4217000" />
+      <workItem from="1624186719402" duration="4925000" />
+      <workItem from="1624192520061" duration="113000" />
+      <workItem from="1624271695140" duration="339000" />
+      <workItem from="1624357133226" duration="1994000" />
+      <workItem from="1624432589829" duration="44000" />
+      <workItem from="1624788101799" duration="1480000" />
     </task>
     <servers />
   </component>
