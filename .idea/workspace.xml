@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcfa4910-841f-42fb-91ea-32c7e53ecdc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/crud/delete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crud/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/connection.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/insert.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../travel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -108,6 +104,7 @@
       <workItem from="1624869624291" duration="173000" />
       <workItem from="1630232100305" duration="3324000" />
       <workItem from="1630240504353" duration="113000" />
+      <workItem from="1630405276837" duration="1764000" />
     </task>
     <servers />
   </component>
