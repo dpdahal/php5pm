@@ -2,11 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcfa4910-841f-42fb-91ea-32c7e53ecdc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/gallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/icons/404.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/delete.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/edit.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/edit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/db.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/introduction.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/loop.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/calculator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/introduction.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-grid.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-reboot.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-utilities.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/css/bootstrap.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/js/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/js/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/js/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/day1/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/day2/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/day2/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/day2/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/day2/welcome.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/images/22f87fcf78c6bad653a47294278a3d08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/images/8ca3c8bb57b0c9130ee9edd7da04928b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/images/8daf1cf4c838f92f300e53674b1203f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/images/ab772a81fd0232ec711bb9ecae5710e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/images/018313a39545f63c780b98b8448750d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/images/05a4f39ab95af24fbb7c2a1eccd5cfbc.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/images/06636acf3065e5f4ae494749181eb076.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/images/29d80abf051cd86b22b114826045d109.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/images/2e0627d14c597cc364e0d94d07ad5bfd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/images/4017a4552ce60e70a5783b3a1a3b7fa3.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/images/4050d8a843174f82ae722fbc7b3efe4e.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/images/5e7ac9959e5fb7de85d0b3d3cd83c95a.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/images/898ef41e347c59ce44449c77d7a22b51.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/images/a8f71c3fcf24de21875465d88aef20b9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/images/b0235ce48add11d239c357349a5e23e8.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/images/bc97d5bcb4f5556bad2b1b8bc305b4a2.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/images/edcadbcee333be27fd4d91681207830b.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/images/f5f4cfd193ddf251a7ea2c0bc54a638d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +134,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/uploads/icons" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,6 +147,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php5pm\uploads\icons" />
       <recent name="C:\xampp\htdocs\php5pm\exercise\day1" />
       <recent name="C:\xampp\htdocs\php5pm\day5\images" />
     </key>
@@ -103,7 +191,7 @@
       <workItem from="1630405276837" duration="1764000" />
       <workItem from="1630838610952" duration="2673000" />
       <workItem from="1630898143964" duration="161000" />
-      <workItem from="1631441243795" duration="973000" />
+      <workItem from="1631441243795" duration="3296000" />
     </task>
     <servers />
   </component>
