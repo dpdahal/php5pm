@@ -1,6 +1,6 @@
 <?php
 
-$connection = mysqli_connect('127.0.0.1', 'root', 'admin', 'college');
+$connection = mysqli_connect('127.0.0.1', 'root', '', 'college');
 
 
 $id = $_GET['sid'];

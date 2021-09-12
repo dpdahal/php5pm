@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcfa4910-841f-42fb-91ea-32c7e53ecdc5" name="Default Changelist" comment="" />
+    <list default="true" id="fcfa4910-841f-42fb-91ea-32c7e53ecdc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +15,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,6 +43,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -88,6 +102,8 @@
       <workItem from="1630240504353" duration="113000" />
       <workItem from="1630405276837" duration="1764000" />
       <workItem from="1630838610952" duration="2673000" />
+      <workItem from="1630898143964" duration="161000" />
+      <workItem from="1631441243795" duration="973000" />
     </task>
     <servers />
   </component>

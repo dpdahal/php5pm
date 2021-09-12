@@ -1,6 +1,6 @@
 <?php
 
-$connection = mysqli_connect('127.0.0.1', 'root', 'admin', 'college');
+$connection = mysqli_connect('127.0.0.1', 'root', '', 'college');
 
 $sql = "SELECT * FROM students";
 $res = mysqli_query($connection, $sql);
